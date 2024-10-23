@@ -530,4 +530,9 @@ def fontpack_free(sender, **kwargs):
                 "woff2": basepath + "/space-mono-v10-latin-ext_latin-700italic.woff2",
             },
         },
+        "Voltaire": {
+            "regular": {
+                "truetype": basepath + "/Voltaire-Regular.ttf",
+            },
+        },
     }
